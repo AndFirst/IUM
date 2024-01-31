@@ -1,0 +1,10 @@
+{
+    "nn":{
+        "premium_purchased":0.23824506,
+        "premium_purchased_this_month":0.22335473
+    },
+    "lr":{
+        "premium_purchased":0.24721093244980133,
+        "premium_purchased_this_month":0.13909739913772506
+    }
+}
